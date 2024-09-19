@@ -4,7 +4,6 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 ## Implemented Features
 1. In-real-time updating target.txt file
 2. Updating the module in root managers directly
-*Other features coming soon..*
 
 ## To-do list
 1. Getting non-revoked valid keybox.xml files in-real-time (as soon you get connected to the internet after each boot)
