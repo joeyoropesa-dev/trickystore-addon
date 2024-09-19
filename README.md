@@ -18,8 +18,10 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 4. Play Integrity Fix by [Chiteroman](https://github.com/chiteroman/PlayIntegrityFix)
 
 #
-#
+
 ## Issues, Questions, Suggestions..
 Since I have both Issues and Discussion tabs opened, please use correct places to suggest, ask questions and report issues/bugs.
+
+#
 
 *Donate options are currently unavailable but when I finish with platform set up, I will share donation options for all those who wanna donate*
