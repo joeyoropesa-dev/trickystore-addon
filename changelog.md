@@ -1,5 +1,5 @@
 Telegram channel:
-https://t.me/joeearmstrong001
+https://t.me/joeyoropesa
 
 Github repository:
 https://github.com/joeyoropesa-dev/trickystore-addon
