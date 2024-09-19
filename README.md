@@ -19,7 +19,7 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 #
 
 ## Issues, Questions, Suggestions..
-Since I have both Issues and Discussion tabs opened, please use correct places to suggest, ask questions and report issues/bugs.
+Since I have both Issues and Discussions tabs opened, please use correct places to suggest, ask questions and report issues/bugs.
 
 #
 
