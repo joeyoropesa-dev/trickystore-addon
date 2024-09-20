@@ -1,5 +1,5 @@
 # Tricky Store Addon (WIP)
-This is Tricky Store addon created to extend features of original TrickyStore! The base of this module is Tricky Store Helper by Captain_Throwback.
+This is Tricky Store addon created to extend features of original TrickyStore! The base of this module is [Tricky Store Helper](https://github.com/CaptainThrowback/TrickyStoreHelper) by Captain_Throwback.
 
 ## Implemented Features
 1. In-real-time updating target.txt file
