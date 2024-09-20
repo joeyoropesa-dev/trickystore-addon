@@ -18,7 +18,7 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 4. Play Integrity Fix by [Chiteroman](https://github.com/chiteroman/PlayIntegrityFix) (Optional)
 
 ## Get-Keybox Implementation (WIP)
-Get-Keybox is a feature implemented in module that allows getting non-revoked latest keybox as soon the boot is completed an network connection is established. You can also manually execute the command
+Get-Keybox is a feature implemented in module that allows getting non-revoked latest keybox as soon the boot is completed and network connection is established. You can also manually execute the command
 ```console
 :/ $ su
 :/ # getkb
