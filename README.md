@@ -4,9 +4,10 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 ## Implemented Features
 1. In-real-time updating target.txt file
 2. Updating the module in root managers directly
+3. Get-Keybox for getting valid keybox.xml files after each boot as soon the internet connection is established
 
 ## To-do list
-1. Getting non-revoked valid keybox.xml files in-real-time (as soon you get connected to the internet after each boot)
+~~1. Getting non-revoked valid keybox.xml files in-real-time (as soon you get connected to the internet after each boot)~~ Done :)
 2. Python support
 3. You tell me :)
 
@@ -15,6 +16,16 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 2. Latest root manager (KSU/APatch/Magisk)
 3. Stock ROM (Since most custom ROMs failing to pass Play Integrity)
 4. Play Integrity Fix by [Chiteroman](https://github.com/chiteroman/PlayIntegrityFix) (Optional)
+
+## Get-Keybox Implementation (WIP)
+Get-Keybox is a feature implemented in module that allows getting non-revoked latest keybox as soon the boot is completed an network connection is established. You can also manually execute the command
+```console
+:/ $ su
+:/ # getkb
+```
+to re-download latest keybox from our server without needing to reboot your device.
+
+The WIP (Work-in-progress) flag is set to this feature since it's in early stages so expect bugs and issues and report them - [#Issues](https://github.com/joeyoropesa-dev/trickystore-addon/issues)
 
 #
 

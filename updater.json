@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.0",
-  "versionCode": 10000,
-  "zipUrl": "https://github.com/joeyoropesa-dev/trickystore-addon/releases/download/1.0.0/trickystore-addon.zip",
+  "version": "v1.0.1",
+  "versionCode": 10001,
+  "zipUrl": "https://github.com/joeyoropesa-dev/trickystore-addon/releases/download/1.0.1/trickystore-addon.zip",
   "changelog": "https://raw.githubusercontent.com/joeyoropesa-dev/trickystore-addon/main/changelog.md"
 }
