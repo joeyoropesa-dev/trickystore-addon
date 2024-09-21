@@ -4,9 +4,8 @@ https://t.me/joeyoropesa
 Github repository:
 https://github.com/joeyoropesa-dev/trickystore-addon
 
-# v1.0.4
+# v1.0.5
 
-- Upgraded getkb script and moved to /bin
-- Upgraded server configuration so newer versions of this module starting from v1.0.4 will support Get-Keybox feature
+- Fixes for Get-Keybox execution on boot
 
 ## It's still WIP so if you have some issues feel free to report them in our repository.
