@@ -3,7 +3,9 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 
 ## Implemented Features
 1. In-real-time updating target.txt file
+
 2. Updating the module in root managers directly
+
 3. [Get-Keybox](https://github.com/joeyoropesa-dev/trickystore-addon#get-keybox-implementation-wip) for getting valid keybox.xml files after each boot as soon the internet connection is established
 
 ## To-do list
