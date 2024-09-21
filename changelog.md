@@ -4,8 +4,11 @@ https://t.me/joeyoropesa
 Github repository:
 https://github.com/joeyoropesa-dev/trickystore-addon
 
-# v1.0.5-4
+# v1.0.7
 
-- Reverting changes from /bin to /system/bin since some ROMs doesn't support /bin mounts
+- Get-Keybox moved to root manager's bin PATH (Avoiding overlay mounts)
+- Auto-boot fixes
+- Permission fixes
+- Fixes support for TEE broken devices
 
 ## It's still WIP so if you have some issues feel free to report them in our repository.
