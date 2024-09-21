@@ -9,8 +9,10 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 3. [Get-Keybox](https://github.com/joeyoropesa-dev/trickystore-addon#get-keybox-implementation-wip) for getting valid keybox.xml files after each boot as soon the internet connection is established
 
 ## To-do list
-~~1. Getting non-revoked valid keybox.xml files in-real-time (as soon you get connected to the internet after each boot)~~ Done :)
+1. ~~Getting non-revoked valid keybox.xml files in-real-time (as soon you get connected to the internet after each boot)~~ Done :)
+
 2. Python support
+
 3. You tell me :)
 
 ## Requirements
