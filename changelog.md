@@ -4,7 +4,7 @@ https://t.me/joeyoropesa
 Github repository:
 https://github.com/joeyoropesa-dev/trickystore-addon
 
-# v1.0.7
+# v1.0.7 (Re-pushed with target.txt fixes too - direct downgrade via updater will last until new version gets released with a new wanted feature)
 
 - Get-Keybox moved to root manager's bin PATH (Avoiding overlay mounts)
 - Auto-boot fixes
