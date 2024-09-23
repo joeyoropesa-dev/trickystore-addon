@@ -36,6 +36,5 @@ The WIP (Work-in-progress) flag is set to this feature since it's in early stage
 ## Issues, Questions, Suggestions..
 Since I have both Issues and Discussions tabs opened, please use correct places to suggest, ask questions and report issues/bugs.
 
-#
-
-*Donate options are currently unavailable but when I finish with platform set up, I will share donation options for all those who wanna donate*
+## Donation
+You can subscribe to [Patreon](patreon.com/joeyoropesa) and help me financially
