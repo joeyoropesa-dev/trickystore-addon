@@ -5,7 +5,7 @@ Github repository:
 [https://github.com/joeyoropesa-dev/trickystore-addon](https://github.com/joeyoropesa-dev/trickystore-addon)
 
 Patreon:
-[httos://www.patreon.com/joeyoropesa](patreon.com/joeyoropesa)
+[httos://www.patreon.com/joeyoropesa](https://www.patreon.com/joeyoropesa)
 
 # v1.0.8 
 
