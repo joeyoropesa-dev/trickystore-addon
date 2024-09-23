@@ -37,4 +37,4 @@ The WIP (Work-in-progress) flag is set to this feature since it's in early stage
 Since I have both Issues and Discussions tabs opened, please use correct places to suggest, ask questions and report issues/bugs.
 
 ## Donation
-You can subscribe to [Patreon](patreon.com/joeyoropesa) and help me financially
+You can subscribe to [Patreon](https://www.patreon.com/joeyoropesa) and help me financially
