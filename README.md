@@ -1,7 +1,9 @@
-## API Outage
+## API Outage (Temp fix)
 API are down that are deeply connected with the server and in the way how keybox validation works due to reports by Google. Google detected "too many requests" on taking integrity checks so it will take some time for me to recover it.
 
 Please, do not share sensitive information about tests you do and please do not do integrity checks often so that we can keep this project working as expected.
+
+(While working on a fix, I've linked external sources to provide strong so you guys don't need to worry about strong for now. Just keep in mind, don't check for integrity too much and don't share sensitive information about those tests to avoid more bans)
 
 # Tricky Store Addon (WIP)
 This is Tricky Store addon created to extend features of original TrickyStore! The base of this module is [Tricky Store Helper](https://github.com/CaptainThrowback/TrickyStoreHelper) by Captain_Throwback.
