@@ -24,7 +24,7 @@ This is Tricky Store addon created to extend features of original TrickyStore! T
 
 ## Requirements
 1. Latest Tricky Store by [5ec1cff](https://github.com/5ec1cff/TrickyStore)
-2. Latest root manager (KSU/APatch/Magisk)
+2. Latest official root manager (KSU/APatch/Magisk/Kitsune)
 3. Stock ROM (Since most custom ROMs failing to pass Play Integrity)
 4. Play Integrity Fix by [Chiteroman](https://github.com/chiteroman/PlayIntegrityFix) (Optional)
 
