@@ -1,3 +1,6 @@
+## PROJECT ON HOLD TEMPORARY
+Project will be on hold until futher notice due to technical reasons. Please, be inform that every issue created will be resolved when project continues it's development.
+
 ## API Outage (Temp fix)
 API are down that are deeply connected with the server and in the way how keybox validation works due to reports by Google. Google detected "too many requests" on taking integrity checks so it will take some time for me to recover it.
 
